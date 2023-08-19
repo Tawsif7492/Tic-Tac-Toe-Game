@@ -22,4 +22,17 @@ Tic-Tac-Toe is a two-player game where each player takes turns to place their sy
 
 ## Installation
 
-1. Clone this repository to your local machine using:
+1. Clone this repository to your local machine using: https://github.com/Tawsif7492/Tic-Tac-Toe-Game.git
+2. Change directory to the project folder: cd Tic-Tac-Toe-Game
+3. Run the game using Python: python main.py
+
+## Usage
+
+- Click on the empty cells to place your symbol.
+- The game will indicate whose turn it is (Player 1 or Player 2).
+- The game will detect and display the winner when a player wins.
+- If all cells are filled and there's no winner, the game will end in a draw.
+
+## Contributing
+
+Contributions are welcome! If you find a bug or have an enhancement in mind, feel free to submit an issue or a pull request.
